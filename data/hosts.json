@@ -1,0 +1,65 @@
+{
+  "hosts": [
+    {
+      "ip": "198.18.200.252",
+      "username": "",
+      "password": "",
+      "note": "",
+      "reachable": true,
+      "protocol": "ssh",
+      "os_hint": "",
+      "open_ports": [
+        22,
+        3389
+      ],
+      "os_detected": "Windows (RDP)",
+      "scan_completed": true
+    },
+    {
+      "ip": "198.18.200.100",
+      "username": "",
+      "password": "",
+      "note": "",
+      "reachable": true,
+      "protocol": "ssh",
+      "os_hint": "",
+      "open_ports": [
+        22,
+        5900
+      ],
+      "os_detected": "Linux/Unix (SSH)",
+      "scan_completed": true
+    },
+    {
+      "ip": "198.18.200.251",
+      "username": "admin",
+      "password": "Ailuph7eixei",
+      "note": "",
+      "reachable": true,
+      "protocol": "ssh",
+      "os_hint": "",
+      "open_ports": [
+        21,
+        22,
+        23,
+        80
+      ],
+      "os_detected": "Linux/Unix (SSH)",
+      "scan_completed": true
+    },
+    {
+      "ip": "198.18.200.247",
+      "username": "Administrator",
+      "password": "Administrator",
+      "note": "",
+      "reachable": true,
+      "protocol": "rdp",
+      "os_hint": "",
+      "open_ports": [
+        3389
+      ],
+      "os_detected": "Windows (RDP)",
+      "scan_completed": true
+    }
+  ]
+}
